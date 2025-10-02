@@ -1,0 +1,17 @@
+
+====Classification Report====
+              precision    recall  f1-score   support
+
+ Not Pokemon     0.8059    0.9032    0.8518      1581
+     Pokemon     0.9346    0.8640    0.8979      2530
+
+    accuracy                         0.8791      4111
+   macro avg     0.8702    0.8836    0.8749      4111
+weighted avg     0.8851    0.8791    0.8802      4111
+
+====Confusion Matrix====
+[[1428  153]
+ [ 344 2186]]
+Accuracy: 0.8791
+Sensitivity (True Positive Rate): 0.8640
+Specificity (True Negative Rate): 0.9032

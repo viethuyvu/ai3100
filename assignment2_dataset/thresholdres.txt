@@ -1,0 +1,21 @@
+Threshold sweep results:
+t=0.10 | Acc=0.7475 | Prec=0.7202 | Recall=0.9644 | F1=0.8246 | Sens=0.9644 | Spec=0.4004
+t=0.15 | Acc=0.8039 | Prec=0.7843 | Recall=0.9399 | F1=0.8551 | Sens=0.9399 | Spec=0.5863
+t=0.20 | Acc=0.8402 | Prec=0.8353 | Recall=0.9221 | F1=0.8766 | Sens=0.9221 | Spec=0.7090
+t=0.25 | Acc=0.8616 | Prec=0.8713 | Recall=0.9095 | F1=0.8900 | Sens=0.9095 | Spec=0.7849
+t=0.30 | Acc=0.8677 | Prec=0.8959 | Recall=0.8881 | F1=0.8920 | Sens=0.8881 | Spec=0.8349
+t=0.35 | Acc=0.8735 | Prec=0.9143 | Recall=0.8767 | F1=0.8951 | Sens=0.8767 | Spec=0.8684
+t=0.40 | Acc=0.8791 | Prec=0.9346 | Recall=0.8640 | F1=0.8979 | Sens=0.8640 | Spec=0.9032
+t=0.45 | Acc=0.8793 | Prec=0.9480 | Recall=0.8506 | F1=0.8967 | Sens=0.8506 | Spec=0.9254
+t=0.50 | Acc=0.8764 | Prec=0.9583 | Recall=0.8356 | F1=0.8927 | Sens=0.8356 | Spec=0.9418
+t=0.55 | Acc=0.8721 | Prec=0.9652 | Recall=0.8217 | F1=0.8877 | Sens=0.8217 | Spec=0.9526
+t=0.60 | Acc=0.8669 | Prec=0.9724 | Recall=0.8067 | F1=0.8818 | Sens=0.8067 | Spec=0.9633
+t=0.65 | Acc=0.8594 | Prec=0.9780 | Recall=0.7893 | F1=0.8736 | Sens=0.7893 | Spec=0.9715
+t=0.70 | Acc=0.8468 | Prec=0.9827 | Recall=0.7644 | F1=0.8599 | Sens=0.7644 | Spec=0.9785
+t=0.75 | Acc=0.8346 | Prec=0.9879 | Recall=0.7403 | F1=0.8464 | Sens=0.7403 | Spec=0.9855
+t=0.80 | Acc=0.8156 | Prec=0.9917 | Recall=0.7063 | F1=0.8250 | Sens=0.7063 | Spec=0.9905
+t=0.85 | Acc=0.7957 | Prec=0.9936 | Recall=0.6723 | F1=0.8020 | Sens=0.6723 | Spec=0.9930
+t=0.90 | Acc=0.7665 | Prec=0.9968 | Recall=0.6225 | F1=0.7664 | Sens=0.6225 | Spec=0.9968
+t=0.95 | Acc=0.7100 | Prec=0.9993 | Recall=0.5292 | F1=0.6920 | Sens=0.5292 | Spec=0.9994
+
+Best threshold by F1: 0.40 with F1=0.8979
