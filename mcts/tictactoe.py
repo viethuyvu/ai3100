@@ -148,7 +148,7 @@ def main():
     mode = input("Choose mode (1/2/3/4): ").strip()
     if mode == '1':
         ai_x = None
-        ai_o = MCTSAI(time_limit=1.0)
+        ai_o = MCTSAI(time_limit=2.0)
         play_game(ai_x, ai_o)
     elif mode == '2':
         play_game(None, None)
